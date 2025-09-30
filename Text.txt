@@ -1,3 +1,4 @@
 Hej!
 
-Nu testar jag och skriva samt lägga till Elevator till mitt github
+Nu testar jag och skriva samt lägga till Elevator till mitt github.
+Än så länge fungerar allt, David är bäst!
